@@ -13,7 +13,8 @@ function Footer() {
           <li><a href="#">AdWatch</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">tips</a></li>
-          <li>&copy; {new Date().getFullYear()} Valet Industries,Inc</li>
+         //<li>&copy; {new Date().getFullYear()} Valet Industries,Inc</li>
+           <p>&copy; 2013 Valet Industries,Inc</p>
         </ul>
       </nav>
     </footer>
